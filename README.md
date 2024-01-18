@@ -1,5 +1,5 @@
 # Yellow Submarine
-This repository contains a corpus with 15 songs' lyrics of the **Yellow Submarine** album, which are collected by copying from the lyric websites, two csv files, one contains all corpus data and annotations, and the other contains metadata of the lyrics, and a Jupiter Notebook recording the procedures of text preprocessing and annotating. The target audience could be the fans of The Beatles or the researchers who is interested in corpus analysis on lyrics.
+This repository contains two csv files, one csv file contains corpus data and annotations of 15 songs' lyrics from the **Yellow Submarine** album and the other contains metadata of the lyrics, and a Jupiter Notebook recording the procedures of text preprocessing and annotating. The target audience could be the fans of The Beatles or the researchers who is interested in corpus analysis on lyrics.
 ## Data Collection Process
 The unstructured data - lyrics are found online and simply copied into text files.
 ## Annotations and Tools
